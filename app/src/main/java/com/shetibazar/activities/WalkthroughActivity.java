@@ -1,9 +1,8 @@
 package com.shetibazar.activities;
 
-import android.graphics.Typeface;
-import android.support.v7.app.AppCompatActivity;
+import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Toast;
 
 import com.codemybrainsout.onboarder.AhoyOnboarderActivity;
 import com.codemybrainsout.onboarder.AhoyOnboarderCard;
@@ -14,9 +13,13 @@ import java.util.List;
 
 public class WalkthroughActivity extends AhoyOnboarderActivity {
 
+    private Context mContext;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        mContext = WalkthroughActivity.this;
 
         AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("Scan Barcode", "Label your packages with a barcode before we collect it from you.", R.drawable.barcode);
         AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("Shipping", "Our huge network of shipping partners ensures that your packages are always on schedule.", R.drawable.truck);
@@ -56,6 +59,8 @@ public class WalkthroughActivity extends AhoyOnboarderActivity {
 
     @Override
     public void onFinishButtonPressed() {
-        Toast.makeText(this, "Finish Pressed", Toast.LENGTH_SHORT).show();
+        Intent splashIntent = new Intent(mContext, LoginActivity.class);
+        startActivity(splashIntent);
+        finish();
     }
 }

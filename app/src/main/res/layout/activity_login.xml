@@ -8,8 +8,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_centerInParent="true"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -62,6 +62,22 @@
                 android:textColor="#ffffff"
                 android:textSize="18sp"
                 android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/btn_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:text="नवीन वापरकर्ता साठी येथे क्लिक करा"
+                android:textSize="18sp" />
+
+            <View
+                android:layout_width="230dp"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:background="@color/colorPrimary" />
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
