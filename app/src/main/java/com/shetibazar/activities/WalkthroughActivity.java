@@ -21,9 +21,9 @@ public class WalkthroughActivity extends AhoyOnboarderActivity {
 
         mContext = WalkthroughActivity.this;
 
-        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("Scan Barcode", "Label your packages with a barcode before we collect it from you.", R.drawable.barcode);
-        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("Shipping", "Our huge network of shipping partners ensures that your packages are always on schedule.", R.drawable.truck);
-        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("Payment", "Receive payments immediately after the package is delivered.", R.drawable.wallet);
+        AhoyOnboarderCard ahoyOnboarderCard1 = new AhoyOnboarderCard("रजिस्ट्रेशन करा", "तुम्हाला काही साहित्य विकत घेणे किंवा विकणे असेल तर रजिस्ट्रेशन करणे अनिवार्य आहे.", R.drawable.barcode);
+        AhoyOnboarderCard ahoyOnboarderCard2 = new AhoyOnboarderCard("लागणारे साहित्य / माल विकत घ्या.", "तुम्हाला लागणाऱ्या वस्तू किंवा माल तुम्ही येथून विकत घेऊ शकतात.", R.drawable.truck);
+        AhoyOnboarderCard ahoyOnboarderCard3 = new AhoyOnboarderCard("तुमच्याकडे असणारे साहित्य / माल विका.", "तुम्हाला काही साहित्य, वस्तू , धान्य किंवा माल तुम्ही येथे विकू शकता.", R.drawable.wallet);
 
         ahoyOnboarderCard1.setBackgroundColor(R.color.white);
         ahoyOnboarderCard2.setBackgroundColor(R.color.white);
