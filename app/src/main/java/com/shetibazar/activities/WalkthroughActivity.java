@@ -44,9 +44,9 @@ public class WalkthroughActivity extends AhoyOnboarderActivity {
         showNavigationControls(false);
 
         List<Integer> colorList = new ArrayList<>();
-        colorList.add(R.color.solid_one);
-        colorList.add(R.color.solid_two);
-        colorList.add(R.color.solid_three);
+        colorList.add(R.color.theme_color);
+        colorList.add(R.color.red_phone);
+        colorList.add(R.color.colorPrimary);
 
         setColorBackground(colorList);
 

@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#F44336</color>
 
-    <color name="solid_one">#4abc96</color>
-    <color name="solid_two">#357180</color>
-    <color name="solid_three">#ffce00</color>
+    <!-- Blacks -->
+    <color name="black">#000000</color>
+
+    <!-- Whites -->
+    <color name="white">#ffffff</color>
+
+    <!-- Greys -->
+    <color name="transpernat_grey_100">#8CF5F5F5</color>
+    <color name="grey_100_trnsprnt">#8CF5F5F5</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_850">#303030</color>
+    <color name="semi_grey_850">#DA303030</color>
+
+    <!-- Green -->
+    <color name="green_phone">#0D980D</color>
+
+    <!-- Red -->
+    <color name="red_phone">#ef5350</color>
+
+    <color name="star_yellow">#8BC34A</color>
+
+    <color name="transperant_star_yellow">#408BC34A</color>
+
+    <color name="blue">#2B58A5</color>
+
+    <color name="theme_color">#0c7dd4</color>
+    <color name="transperant_theme_color">#8C0c7dd4</color>
 </resources>
