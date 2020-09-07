@@ -1,0 +1,472 @@
+{
+  "3": [
+    {
+      "villageCode": "270300030018780000",
+      "villageName": "अजनाड"
+    },
+    {
+      "villageCode": "270300030018650000",
+      "villageName": "अजंदे"
+    },
+    {
+      "villageCode": "270300030018860000",
+      "villageName": "अटवाडे"
+    },
+    {
+      "villageCode": "270300030018710000",
+      "villageName": "अहिरवाडी"
+    },
+    {
+      "villageCode": "270300030018470000",
+      "villageName": "अंधारमळी"
+    },
+    {
+      "villageCode": "270300030018540000",
+      "villageName": "आभोडा खुर्द"
+    },
+    {
+      "villageCode": "270300030018530000",
+      "villageName": "आभोडा बु"
+    },
+    {
+      "villageCode": "270300030019160000",
+      "villageName": "आंदलवाडी"
+    },
+    {
+      "villageCode": "270300030018600000",
+      "villageName": "उटखेडा"
+    },
+    {
+      "villageCode": "270300030019320000",
+      "villageName": "उदळी खुर्द"
+    },
+    {
+      "villageCode": "270300030019330000",
+      "villageName": "उदळी बु"
+    },
+    {
+      "villageCode": "270300030019380000",
+      "villageName": "ऐनपूर"
+    },
+    {
+      "villageCode": "270300030018750000",
+      "villageName": "कर्जोद"
+    },
+    {
+      "villageCode": "270300030019030000",
+      "villageName": "कळमोदे"
+    },
+    {
+      "villageCode": "270300030019460000",
+      "villageName": "कांडवेल"
+    },
+    {
+      "villageCode": "270300030018580000",
+      "villageName": "कुसूंबे खुर्द"
+    },
+    {
+      "villageCode": "270300030018590000",
+      "villageName": "कुसूंबे बु."
+    },
+    {
+      "villageCode": "270300030018990000",
+      "villageName": "कुंभारखेडे"
+    },
+    {
+      "villageCode": "270300030018730000",
+      "villageName": "केऱ्हाळे  खु"
+    },
+    {
+      "villageCode": "270300030018740000",
+      "villageName": "केऱ्हाळे बु"
+    },
+    {
+      "villageCode": "270300030019100000",
+      "villageName": "कोचूर खुर्द"
+    },
+    {
+      "villageCode": "270300030019120000",
+      "villageName": "कोचूर बू"
+    },
+    {
+      "villageCode": "270300030019450000",
+      "villageName": "कोळोदे"
+    },
+    {
+      "villageCode": "270300030018760000",
+      "villageName": "खानापूर"
+    },
+    {
+      "villageCode": "270300030018890000",
+      "villageName": "खिरवड"
+    },
+    {
+      "villageCode": "270300030019020000",
+      "villageName": "खिरोदा  प्र  यावल"
+    },
+    {
+      "villageCode": "270300030018560000",
+      "villageName": "खिरोदा प्र रावेर"
+    },
+    {
+      "villageCode": "270300030019400000",
+      "villageName": "खिर्डी खुर्द"
+    },
+    {
+      "villageCode": "270300030019410000",
+      "villageName": "खिर्डी  बु."
+    },
+    {
+      "villageCode": "270300030019290000",
+      "villageName": "गहुखेडे"
+    },
+    {
+      "villageCode": "270300030019230000",
+      "villageName": "गाते"
+    },
+    {
+      "villageCode": "270300030018450000",
+      "villageName": "गारखेडा"
+    },
+    {
+      "villageCode": "270300030018480000",
+      "villageName": "गारबर्डी"
+    },
+    {
+      "villageCode": "270300030018410000",
+      "villageName": "गुलाबवाडी"
+    },
+    {
+      "villageCode": "270300030019540000",
+      "villageName": "गोलवाडे"
+    },
+    {
+      "villageCode": "270300030018980000",
+      "villageName": "गौलखेडा"
+    },
+    {
+      "villageCode": "270300030019050000",
+      "villageName": "चिनावल"
+    },
+    {
+      "villageCode": "270300030018960000",
+      "villageName": "चिंचाटी"
+    },
+    {
+      "villageCode": "270300030019250000",
+      "villageName": "चूनवाडे"
+    },
+    {
+      "villageCode": "270300030018770000",
+      "villageName": "चोरवड"
+    },
+    {
+      "villageCode": "270300030018950000",
+      "villageName": "जानोरी"
+    },
+    {
+      "villageCode": "270300030018430000",
+      "villageName": "जिनसी"
+    },
+    {
+      "villageCode": "270300030018720000",
+      "villageName": "जुनोने"
+    },
+    {
+      "villageCode": "270300030018820000",
+      "villageName": "तामसवाडी"
+    },
+    {
+      "villageCode": "270300030019310000",
+      "villageName": "तासखेडा"
+    },
+    {
+      "villageCode": "270300030019510000",
+      "villageName": "तांदलवाडी"
+    },
+    {
+      "villageCode": "270300030018500000",
+      "villageName": "तिडया"
+    },
+    {
+      "villageCode": "270300030018920000",
+      "villageName": "थेरोळे"
+    },
+    {
+      "villageCode": "270300030019240000",
+      "villageName": "थोरगव्हाण"
+    },
+    {
+      "villageCode": "270300030019140000",
+      "villageName": "दसनूर"
+    },
+    {
+      "villageCode": "270300030018870000",
+      "villageName": "दोधे"
+    },
+    {
+      "villageCode": "270300030019430000",
+      "villageName": "धामोडी"
+    },
+    {
+      "villageCode": "270300030018930000",
+      "villageName": "धुरखेडे"
+    },
+    {
+      "villageCode": "270300030018640000",
+      "villageName": "नांदुरखेडे"
+    },
+    {
+      "villageCode": "270300030018460000",
+      "villageName": "निमडया"
+    },
+    {
+      "villageCode": "270300030018700000",
+      "villageName": "निरुळ"
+    },
+    {
+      "villageCode": "270300030019350000",
+      "villageName": "निंबोल"
+    },
+    {
+      "villageCode": "270300030019090000",
+      "villageName": "निंभोरा बु."
+    },
+    {
+      "villageCode": "270300030018940000",
+      "villageName": "निंभोरे सिम"
+    },
+    {
+      "villageCode": "270300030018880000",
+      "villageName": "नेहते"
+    },
+    {
+      "villageCode": "270300030018680000",
+      "villageName": "पाडळे खुर्द"
+    },
+    {
+      "villageCode": "270300030018690000",
+      "villageName": "पाडळे बु"
+    },
+    {
+      "villageCode": "270300030018900000",
+      "villageName": "पातोंडी"
+    },
+    {
+      "villageCode": "270300030018400000",
+      "villageName": "पाल"
+    },
+    {
+      "villageCode": "270300030018660000",
+      "villageName": "पिंप्री"
+    },
+    {
+      "villageCode": "270300030018840000",
+      "villageName": "पुनखेडे"
+    },
+    {
+      "villageCode": "270300030019530000",
+      "villageName": "पुरी"
+    },
+    {
+      "villageCode": "270300030019490000",
+      "villageName": "बलवाडी"
+    },
+    {
+      "villageCode": "270300030018830000",
+      "villageName": "बोरखेडे"
+    },
+    {
+      "villageCode": "270300030019110000",
+      "villageName": "बोरखेडे सिम"
+    },
+    {
+      "villageCode": "270300030018910000",
+      "villageName": "बोहर्डे"
+    },
+    {
+      "villageCode": "270300030018610000",
+      "villageName": "भाटखेडे"
+    },
+    {
+      "villageCode": "270300030019480000",
+      "villageName": "भामलवाडी"
+    },
+    {
+      "villageCode": "270300030018810000",
+      "villageName": "भोकरी"
+    },
+    {
+      "villageCode": "270300030018630000",
+      "villageName": "भोर"
+    },
+    {
+      "villageCode": "270300030019170000",
+      "villageName": "मस्कावद खुर्द."
+    },
+    {
+      "villageCode": "270300030019210000",
+      "villageName": "मस्कावद बु."
+    },
+    {
+      "villageCode": "270300030019180000",
+      "villageName": "मस्कावद सीम"
+    },
+    {
+      "villageCode": "270300030019520000",
+      "villageName": "मांगलवाडी"
+    },
+    {
+      "villageCode": "270300030019260000",
+      "villageName": "मांगी"
+    },
+    {
+      "villageCode": "270300030018570000",
+      "villageName": "मुंजलवाडी"
+    },
+    {
+      "villageCode": "270300030018790000",
+      "villageName": "मोरगांव"
+    },
+    {
+      "villageCode": "270300030018850000",
+      "villageName": "मोरगांव खु."
+    },
+    {
+      "villageCode": "270300030018420000",
+      "villageName": "मोरव्हाल"
+    },
+    {
+      "villageCode": "270300030018670000",
+      "villageName": "मोहगण बु."
+    },
+    {
+      "villageCode": "270300030019560000",
+      "villageName": "मोहमांडली जुनी"
+    },
+    {
+      "villageCode": "270300030018490000",
+      "villageName": "मोहमांडली नवी"
+    },
+    {
+      "villageCode": "270300030018510000",
+      "villageName": "मंगरुळ"
+    },
+    {
+      "villageCode": "270300030019300000",
+      "villageName": "रणगांव"
+    },
+    {
+      "villageCode": "270300030018550000",
+      "villageName": "रसलपुर"
+    },
+    {
+      "villageCode": "270300030019280000",
+      "villageName": "रायपुर"
+    },
+    {
+      "villageCode": "270300030018620000",
+      "villageName": "रावेर"
+    },
+    {
+      "villageCode": "270300030019390000",
+      "villageName": "रेंभोटे"
+    },
+    {
+      "villageCode": "270300030019040000",
+      "villageName": "रोझोदा"
+    },
+    {
+      "villageCode": "270300030018520000",
+      "villageName": "लालमाती"
+    },
+    {
+      "villageCode": "270300030019340000",
+      "villageName": "लुमखेडा"
+    },
+    {
+      "villageCode": "270300030018970000",
+      "villageName": "लोहारा"
+    },
+    {
+      "villageCode": "270300030019060000",
+      "villageName": "वडगाव"
+    },
+    {
+      "villageCode": "270300030019420000",
+      "villageName": "वाघाडी"
+    },
+    {
+      "villageCode": "270300030018800000",
+      "villageName": "वाघोड"
+    },
+    {
+      "villageCode": "270300030019130000",
+      "villageName": "वाघोदा बु"
+    },
+    {
+      "villageCode": "270300030019200000",
+      "villageName": "वाघोदे खुर्द"
+    },
+    {
+      "villageCode": "270300030019370000",
+      "villageName": "विटवे"
+    },
+    {
+      "villageCode": "270300030019070000",
+      "villageName": "विवरे खुर्द"
+    },
+    {
+      "villageCode": "270300030019080000",
+      "villageName": "विवरे बु."
+    },
+    {
+      "villageCode": "270300030019470000",
+      "villageName": "शिंगाडी"
+    },
+    {
+      "villageCode": "270300030018440000",
+      "villageName": "सहस्त्रलिंग"
+    },
+    {
+      "villageCode": "270300030019000000",
+      "villageName": "सावखेडे खुर्द"
+    },
+    {
+      "villageCode": "270300030019010000",
+      "villageName": "सावखेडे बु."
+    },
+    {
+      "villageCode": "270300030019190000",
+      "villageName": "सावदा"
+    },
+    {
+      "villageCode": "270300030019360000",
+      "villageName": "सांगवे"
+    },
+    {
+      "villageCode": "270300030019500000",
+      "villageName": "सिंगत"
+    },
+    {
+      "villageCode": "270300030019150000",
+      "villageName": "सिंगनुर"
+    },
+    {
+      "villageCode": "270300030019270000",
+      "villageName": "सुदगाव"
+    },
+    {
+      "villageCode": "270300030019220000",
+      "villageName": "सुनोदे"
+    },
+    {
+      "villageCode": "270300030019440000",
+      "villageName": "सुलवाडी"
+    },
+    {
+      "villageCode": "270300030019550000",
+      "villageName": "होळ"
+    }
+  ]
+}
